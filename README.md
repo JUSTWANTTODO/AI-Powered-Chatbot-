@@ -1,5 +1,4 @@
-# AI-Powered-Chatbot-
-Here's a **beautifully formatted README.md** file for your **GitHub repository** showcasing your **therapeutic chatbot "Dizzy"**:
+# AI-Powered-Chatbot - Dizzy
 
 ---
 
@@ -119,7 +118,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-👩‍💻 **Developed by**:Kolluri Sruthi (https://github.com/your-username)  
-🌐 **GitHub Repo**: AI Powered Bot ()
+👩‍💻 **Developed by**: K. Sruthi (https://github.com/JUSTWANTTODO)
+🌐 **GitHub Repo**: AI Powered Bot (https://github.com/JUSTWANTTODO/AI-Powered-Chatbot-.git)
 
 🚀 _Let's build **AI with empathy**!
