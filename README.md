@@ -36,7 +36,6 @@ Dizzy listens, responds with validation, and gently guides users through their t
 | Technology  | Purpose  |
 |-------------|----------|
 | **Python** | Core backend logic  |
-| **Flask** | API Framework  |
 | **LangChain** | AI conversation handling  |
 | **Google Gemini AI** | AI-powered responses  |
 | **SpeechRecognition** | Converts speech to text  |
