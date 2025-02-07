@@ -78,13 +78,6 @@ Dizzy was built to provide **a safe, warm, and non-judgmental space** for users 
 
 ---
 
-## 🏗️ Future Enhancements  
-✅ Integrate **OpenAI GPT for enhanced responses**.  
-✅ Add **multi-language support**.  
-✅ Develop a **mobile-friendly UI**.  
-
----
-
 ## 📜 License  
 This project is licensed under the **MIT License**. 
 
