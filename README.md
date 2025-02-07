@@ -46,33 +46,6 @@ Dizzy listens, responds with validation, and gently guides users through their t
 
 ---
 
-## 🚀 Installation & Setup  
-
-1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/dizzy-therapeutic-chatbot.git
-cd dizzy-therapeutic-chatbot
-```
-
-2️⃣ Install Dependencies  
-Ensure you have **Python 3.8+** installed.  
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ Set Up Environment Variables  
-Create a `.env` file and add your **Google API Key**:  
-```
-GOOGLE_API_KEY=your_api_key_here
-```
-
- 4️⃣ Run the Application  
-```bash
-python app.py
-```
-
----
-
 🎤 How to Use  
 
 1️⃣ Start the chatbot - it will **greet you and ask how you’re feeling**.  
