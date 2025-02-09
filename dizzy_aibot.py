@@ -96,7 +96,7 @@ What to Avoid:
     Friend: {input}
     Dizzy: """
 
-prompt = PromptTemplate(input_variables = ["histroy", "input"], template = template)
+prompt = PromptTemplate(input_variables = ["history", "input"], template = template)
 
 
 
