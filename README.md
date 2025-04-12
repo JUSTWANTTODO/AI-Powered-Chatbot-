@@ -2,7 +2,7 @@
 
 ---
 
-🧘‍♀️ Dizzy - Your Virtual Therapeutic Assistant 🤖❤️  
+Dizzy - Your Virtual Therapeutic Assistant 
 
 Welcome to **Dizzy**, a compassionate **AI-powered therapeutic assistant** designed to provide **empathetic and supportive conversations** to users experiencing distress, trauma, or anxiety.  
 
@@ -10,28 +10,28 @@ Dizzy listens, responds with validation, and gently guides users through their t
 
 ---
 
-🌟 Features  
+Features  
 
-🎙️ Voice Interaction  
+Voice Interaction  
 - Uses **speech recognition** (Google Speech API) to allow users to **speak** instead of typing.  
 - Responds with **text-to-speech (TTS)** using `pyttsx3`.  
 
-🧠 AI-Powered Conversations  
+AI-Powered Conversations  
 - Built with **Google Gemini AI (LangChain)** to ensure **context-aware and emotionally intelligent** responses.  
 - Uses **memory buffer** to maintain the flow of conversation.  
 
-### 🔍 Smart Web Search  
+### Smart Web Search  
 - Uses **DuckDuckGo Search API** to fetch **helpful mental health resources** upon request.  
 
-### 📜 Ethical Guidelines  
+### Ethical Guidelines  
 - **Validates emotions** (e.g., “It’s okay to feel this way.”).  
 - **Offers gentle encouragement** (e.g., “Take your time.”).  
 - **Provides resources upon request.**  
-- 🚫 **Avoids medical diagnoses, assumptions, and triggering topics**.  
+- **Avoids medical diagnoses, assumptions, and triggering topics**.  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 | Technology  | Purpose  |
 |-------------|----------|
@@ -45,7 +45,7 @@ Dizzy listens, responds with validation, and gently guides users through their t
 
 ---
 
-🎤 How to Use  
+How to Use:
 
 1️⃣ Start the chatbot - it will **greet you and ask how you’re feeling**.  
 2️⃣ **Speak** or **type** your thoughts.  
@@ -55,7 +55,7 @@ Dizzy listens, responds with validation, and gently guides users through their t
 
 ---
 
-💡 Example Conversation  
+Example Conversation  
 
 ```
 👤 User: I'm feeling overwhelmed.  
@@ -66,7 +66,7 @@ Dizzy listens, responds with validation, and gently guides users through their t
 
 👤 User: Can you find resources on dealing with anxiety?  
 🤖 Dizzy: Of course! Let me look that up for you...  
-    📌 [Title: Managing Anxiety - Mental Health Guide](https://example.com)  
+    [Title: Managing Anxiety - Mental Health Guide](https://example.com)  
 ```
 
 ---
@@ -78,12 +78,11 @@ Dizzy was built to provide **a safe, warm, and non-judgmental space** for users 
 
 ---
 
-## 📜 License  
+## License  
 This project is licensed under the **MIT License**. 
 
 ---
 
-👩‍💻 **Developed by**: K. Sruthi (https://github.com/JUSTWANTTODO)
+👩‍💻 **Developed by**: K. Sruthi (https://github.com/JUSTWANTTODO                                                                                                                                                      
 🌐 **GitHub Repo**: AI Powered Bot (https://github.com/JUSTWANTTODO/AI-Powered-Chatbot-.git)
 
-🚀 _Let's build **AI with empathy**!
