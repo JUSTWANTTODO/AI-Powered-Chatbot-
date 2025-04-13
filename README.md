@@ -82,7 +82,6 @@ Dizzy was built to provide **a safe, warm, and non-judgmental space** for users 
 This project is licensed under the **MIT License**. 
 
 ---
-
-👩‍💻 **Developed by**: K. Sruthi (https://github.com/JUSTWANTTODO                                                                                                                                                      
+                                                                                                                                                    
 🌐 **GitHub Repo**: AI Powered Bot (https://github.com/JUSTWANTTODO/AI-Powered-Chatbot-.git)
 
